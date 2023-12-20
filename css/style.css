@@ -19,7 +19,7 @@ section {
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(156, 20, 194, 0.525);
 }
 
 section.active {
@@ -91,7 +91,7 @@ button {
 }
 .navbar ul li a:hover{
     background-color: white;
-    color: black;
+    color: white;
     box-shadow: 0 0 10px white;
 }
 #home{
@@ -153,12 +153,12 @@ button {
 
 
 h2 {
-    color: #333;
+    color: white;
 }
 
 p {
     line-height: 1.6;
-    color: #555;
+    color: white;
 }
 
 ul {
@@ -290,7 +290,7 @@ footer {
 flex-direction: column;
 width: 350px;
 height: 450px;
-border: 1px solid black;
+border: 1px solid white;
 margin: 10px;
 align-items: center;
 text-align: justify;
